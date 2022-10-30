@@ -27,7 +27,7 @@
 
 - :snowman_with_snow: Fun fact: I really love to eat just like Homer! 
 <div align="center">
-<img src= "https://media.giphy.com/media/5EYxJigLKsNWg/giphy.gif" width=200px alt=simpsons>
+<img src= "https://media.giphy.com/media/5EYxJigLKsNWg/giphy.gif" width=350px alt=simpsons>
 </div>
 
 ---
