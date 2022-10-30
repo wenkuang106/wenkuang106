@@ -17,7 +17,7 @@
 
 ### :technologist: About me: 
 
-- I am an asipiring Software Engineer
+- :thinking: I am an asipiring Software Engineer
 
 - :school:	I am currently in the Applied Health Informatics program in Stony Brook University 
 
