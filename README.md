@@ -8,6 +8,3 @@
 📫 How to reach me: ...
 😄 Pronouns: ...
 ⚡ Fun fact: I love to eat <img src= "https://media.giphy.com/media/5EYxJigLKsNWg/giphy.gif" width=400px alt=simpsons> 
-
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
