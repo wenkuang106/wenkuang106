@@ -8,3 +8,10 @@
 📫 How to reach me: ...
 😄 Pronouns: ...
 ⚡ Fun fact: I love to eat <img src= "https://media.giphy.com/media/5EYxJigLKsNWg/giphy.gif" width=400px alt=simpsons> 
+
+<div id="badges">
+  <a href="www.linkedin.com/in/wenjin-kuang">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+</div>
+
