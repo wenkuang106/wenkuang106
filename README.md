@@ -41,7 +41,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="gcp" alt="gcp" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="azure" alt="azure" width="40" height="40"/>&nbsp;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenkuang106&layout=compact&theme=vision-friendly-dark">
 </div>
