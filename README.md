@@ -32,7 +32,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools Currently Learning:
+### :hammer_and_wrench: Languages and Tools:
 
 <div align="center">
 
