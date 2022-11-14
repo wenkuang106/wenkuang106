@@ -44,6 +44,6 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="gcp" alt="gcp" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="azure" alt="azure" width="40" height="40"/>&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenkuang106&layout=compact&theme=vision-friendly-dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenkuang106&layout=compact&theme=vision-friendly-dark&hide=Jupyter%20Notebook">
 </div>
 
