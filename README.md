@@ -17,11 +17,11 @@
 
 ### :technologist: About me: 
 
-- :thinking: I am an asipiring Software Engineer
+- :thinking: I am an asipiring Data Engineer
 
 - :school:	I am currently in the Applied Health Informatics Master's program at Stony Brook University 
 
-- :telescope: I like to explore all the possiblities of coding 
+- :telescope: I like to explore all the possiblities of coding in managing data
 
 - :spiral_calendar:	In my free time I like to work on random project ideas that pops into in my mind 
 
