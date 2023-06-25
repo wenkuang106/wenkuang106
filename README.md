@@ -17,7 +17,7 @@
 
 ### :technologist: About me: 
 
-- :thinking: I am an asipiring Data Engineer
+- :thinking: I am currently aspiring to be a professional in the Data profession
 
 - :school:	I am currently in the Applied Health Informatics Master's program at Stony Brook University 
 
