@@ -37,7 +37,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="gcp" alt="gcp" width="40" height="40"/>&nbsp;
-<img src="https://www.svgrepo.com/show/354427/tableau.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+<img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.png" title="Tableau" alt="Tableau" width="60" height="40"/>&nbsp;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenkuang106&layout=compact&theme=vision-friendly-dark&hide=Jupyter%20Notebook">
 </div>
