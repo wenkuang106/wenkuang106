@@ -14,15 +14,12 @@
 
 ### :technologist: About me: 
 
-- :thinking: I am currently aspiring to be a professional in the Data profession
-
-- :school:	I recently graduated from a Master's program with a Data Analytics Specialization at Stony Brook University 
-
-- :telescope: I like to explore all the possiblities of data
-
-- :spiral_calendar:	In my free time I like to work on random project ideas that pops into in my mind and rewatech my favorite sit-coms
-
-- :snowman_with_snow: Fun fact: I really love to eat just like Homer! 
+- 🎓 Recently graduated with a Master's in Data Analytics Specialization from Stony Brook University.
+- 💼 Aspiring data professional with a passion for turning data into actionable insights.
+- 🛠️ Experienced in Python, SQL, Tableau, Excel, and Google Big Query.
+- 🌟 Enthusiastic about exploring the endless possibilities of data.
+- 💡 In my free time, I work on random project ideas and enjoy rewatching my favorite sitcoms.
+- 🍕 Fun fact: I love to eat as much as Homer Simpson!
 <div align="center">
 <img src= "https://media.giphy.com/media/5EYxJigLKsNWg/giphy.gif" width=350px alt=simpsons>
 </div>
@@ -33,12 +30,11 @@
 
 <div align="center">
 
-<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="gcp" alt="gcp" width="40" height="40"/>&nbsp;
-<img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.png" title="Tableau" alt="Tableau" width="60" height="40"/>&nbsp;
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoftexcel)
+![Tableau](https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=tableau)
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-000?style=for-the-badge&logo=googlecloud)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenkuang106&layout=compact&theme=vision-friendly-dark&hide=Jupyter%20Notebook">
 </div>
-
