@@ -16,11 +16,11 @@
 
 - :thinking: I am currently aspiring to be a professional in the Data profession
 
-- :school:	I am currently in the Applied Health Informatics Master's program at Stony Brook University 
+- :school:	I recently graduated from a Master's program with a Data Analytics Specialization at Stony Brook University 
 
-- :telescope: I like to explore all the possiblities of coding in managing data
+- :telescope: I like to explore all the possiblities of data
 
-- :spiral_calendar:	In my free time I like to work on random project ideas that pops into in my mind 
+- :spiral_calendar:	In my free time I like to work on random project ideas that pops into in my mind and rewatech my favorite sit-coms
 
 - :snowman_with_snow: Fun fact: I really love to eat just like Homer! 
 <div align="center">
@@ -33,12 +33,11 @@
 
 <div align="center">
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="gcp" alt="gcp" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="azure" alt="azure" width="40" height="40"/>&nbsp;
+<img src="https://www.svgrepo.com/show/354427/tableau.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenkuang106&layout=compact&theme=vision-friendly-dark&hide=Jupyter%20Notebook">
 </div>
